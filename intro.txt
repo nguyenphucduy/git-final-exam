@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-Tôi tên là Nguyễn Phúc Duy. Tôi là sinh viên năm 4 tại Trườngđại học nam cần thơ. Tôi thích học công nghệ và lập trình. Tôi đang học về Git để quản lý mã nguồn. Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
+Tôi tên là Nguyễn Phúc Duy. Tôi là sinh viên năm 4 tại Trường đại học nam cần thơ. Tôi thích học công nghệ và lập trình. Tôi đang học về Git để quản lý mã nguồn. Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
 
 Sở thích:
 - Xem phim khoa học viễn tưởng.
@@ -10,3 +10,10 @@ Kỹ năng:
 - Lập trình cơ bản với Python.
 - Sử dụng Git cơ bản.
 - Thiết kế giao diện cơ bản với HTML/CSS.
+
+Kế hoạch học tập:
+- Học Git 2 giờ mỗi ngày.
+- Hoàn thành các bài tập thực hành Git.
+- Tìm hiểu về các lệnh nâng cao như rebase.
+- Làm dự án nhóm sử dụng GitHub.
+- Đọc tài liệu chính thức của Git.

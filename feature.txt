@@ -1,0 +1,6 @@
+Tính năng mới:
+- Hệ thống quản lý công việc.
+- Cho phép người dùng thêm, sửa, xóa công việc.
+- Tích hợp thông báo qua email.
+- Giao diện thân thiện với người dùng.
+- Hỗ trợ đa nền tảng (web, mobile).

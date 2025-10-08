@@ -16,4 +16,8 @@ Kế hoạch học tập:
 - Hoàn thành các bài tập thực hành Git.
 - Tìm hiểu về các lệnh nâng cao như rebase.
 - Làm dự án nhóm sử dụng GitHub.
+<<<<<<< HEAD
 - Đọc tài liệu chính thức của Git.
+=======
+- Đọc tài liệu chính thức của Git.
+>>>>>>> e0504099470d335666b5ed003b60eed9188b0344

@@ -2,6 +2,3 @@ Cảm nhận về Git:
 - Git là công cụ mạnh mẽ để quản lý mã nguồn.
 - Giúp làm việc nhóm hiệu quả.
 - Cần thời gian để làm quen với các lệnh.
-
-- Rất thú vị khi học cách merge branch.
-- Cần cẩn thận khi xử lý xung đột.
